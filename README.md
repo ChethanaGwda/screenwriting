@@ -25,4 +25,3 @@ The project uses **MediaPipe** and **OpenCV** to track hand landmarks and create
 
 ---
 
-## 📂 Project Structure
